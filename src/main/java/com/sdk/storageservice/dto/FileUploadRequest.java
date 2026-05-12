@@ -9,5 +9,5 @@ import java.util.UUID;
 @Builder
 public class FileUploadRequest {
     private String fileName;
-    private UUID clientId;
+
 }

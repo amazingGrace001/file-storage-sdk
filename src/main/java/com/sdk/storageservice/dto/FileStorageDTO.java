@@ -8,8 +8,6 @@ public class FileStorageDTO {
     private String filePath;
     private Long fileSize;
     private String fileType;
-    private String tenantId;
-    private String clientId;
     private LocalDateTime createdAt;
 
     public String getId() {
@@ -52,21 +50,7 @@ public class FileStorageDTO {
         this.fileType = fileType;
     }
 
-    public String getTenantId() {
-        return tenantId;
-    }
 
-    public void setTenantId(String tenantId) {
-        this.tenantId = tenantId;
-    }
-
-    public String getClientId() {
-        return clientId;
-    }
-
-    public void setClientId(String clientId) {
-        this.clientId = clientId;
-    }
 
     public LocalDateTime getCreatedAt() {
         return createdAt;

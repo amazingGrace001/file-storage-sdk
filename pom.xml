@@ -6,12 +6,12 @@
 
     <groupId>com.storageservice</groupId>
     <artifactId>file-storage-sdk</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>File Storage SDK</name>
     <description>SDK for integrating with File Storage Service</description>
-    <url>https://github.com/YourOrg/file-storage-sdk</url>
+    <url>https://github.com/amazingGrace001/file-storage-sdk</url>
 
     <licenses>
         <license>
