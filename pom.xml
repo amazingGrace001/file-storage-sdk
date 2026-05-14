@@ -37,6 +37,13 @@
                 https://maven.pkg.github.com/amazingGrace001/file-storage-sdk
             </url>
         </repository>
+        <snapshotRepository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>
+                https://maven.pkg.github.com/amazingGrace001/file-storage-sdk
+            </url>
+        </snapshotRepository>
     </distributionManagement>
 
     <dependencies>
